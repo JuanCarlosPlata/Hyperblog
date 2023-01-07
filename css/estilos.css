@@ -45,6 +45,10 @@ body
     background: white;
     padding: 1em;
 }
+#post #h1
+{
+    text-align: center;
+}
 #footer
 {
     background: #777;
