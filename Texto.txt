@@ -1,4 +1,6 @@
 Este era un  texto plano y blanquito
 Soy Juan carlos plata y tengo 32 años y una gata bonita.
 
+main 1
+
 hoy quiero comer tacos
