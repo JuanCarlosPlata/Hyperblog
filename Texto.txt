@@ -3,4 +3,6 @@ Soy Juan carlos plata y tengo 32 años y una gata bonita.
 
 main 1
 
+main 2
+
 hoy quiero comer tacos
